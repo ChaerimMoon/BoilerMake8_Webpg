@@ -4,4 +4,4 @@ order tables for customers
 - linked to "order.html"
 - click a pizza and drink
 - click "order it now!"
-- linked to "orderSuccess"
+- linked to "orderSuccess.html"
