@@ -9,7 +9,7 @@ var myPieChart = new Chart(ctx, {
   data: {
     labels: ["Pizza", "Soda"],
     datasets: [{
-      data: [30, 30],
+      data: [45, 15],
       backgroundColor: ['#007bff', '#dc3545'],
     }],
   },
