@@ -57,11 +57,6 @@ nav {
   flex-grow: 1;
 }*/
 
-.body{
-    background-image:url("/Users/cnamarketing/BoilerMake2021/Queue");
-    background-position: right top;
-    background-repeat:no-repeat;background-attachment:fixed;
-}
 
 #upper_right {
     width: 125px; height: 125px;
